@@ -28,9 +28,11 @@ For more information, visit the [React Native Elements website](https://reactnat
 ### Components
 
 **Buttons**
+
 Buttons are touchable elements used to interact with the screen and to perform and operation. They may display text, icons, or both. Buttons can be styled with several props to look a specific way. Also receives all TouchableNativeFeedback (Android) or TouchableOpacity (iOS) props.
 `import { Button } from '@rneui/base';`
 
 **Card**
+
 Cards are a great way to display information, usually containing content and actions about a single subject. Cards can contain images, buttons, text and more. Cards are mainly used for informative purpose.
 `import { Card } from '@rneui/themed';`
